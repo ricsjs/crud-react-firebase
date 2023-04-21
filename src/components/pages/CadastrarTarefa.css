@@ -1,0 +1,16 @@
+input{
+    height: 50px;
+    width: 50%;
+    margin: 20px;
+    border-radius: 10px;
+    border: 1px solid black
+}
+
+input::placeholder{
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
